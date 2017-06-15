@@ -23,16 +23,21 @@
 Implementation of Material Design Chips component for Android  
 [https://github.com/pchmn/MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialChipsInput.gif)  -->
-<hr> 
+
+<br>
 **okhttp-OkGo**  
 OkGo 震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请求框架，完美支持RxJava，RxJava2，比Retrofit更简单易用。支持自定义缓存数据，扩展了统一的上传管理和下载管理功能  
 [https://github.com/jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/okgo.png)  -->
+
 ---
+
 **okhttputils**  
 对okhttp的封装类  
 [https://github.com/hongyangAndroid/okhttputils](https://github.com/hongyangAndroid/okhttputils)  
+
 ---
+
 **ShootRefreshView**  
 快手Android客户端的一个刷新动画。（一个打开快门的动画）   
 [https://github.com/dinuscxj/ShootRefreshView](https://github.com/dinuscxj/ShootRefreshView)  
