@@ -8,7 +8,7 @@
 * 名榜：十八般武艺，各路有套路。天下之大，得之你幸。
 * 遗碑：天下之大，天下之外，亦有天下。
 
-![![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/king.png)](https://img.shields.io/badge/%E6%AE%BF%E5%A0%82-Gode-lightgrey.svg)
+![](https://img.shields.io/badge/%E6%AE%BF%E5%A0%82-Gord-lightgrey.svg)
 
 ## 天榜
 
