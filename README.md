@@ -37,7 +37,7 @@ OkGo 震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请�
 对okhttp的封装类  
 [https://github.com/hongyangAndroid/okhttputils](https://github.com/hongyangAndroid/okhttputils)  
 
----
+##  
 
 **ShootRefreshView**  
 快手Android客户端的一个刷新动画。（一个打开快门的动画）   
@@ -174,7 +174,7 @@ Android Runtime权限，支持在任何地方申请许可的权利。
 [https://github.com/shem8/MaterialLogin](https://github.com/shem8/MaterialLogin)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialLogin.gif)  -->
 
----
+##  
 
 **AppIntro**  
 一款酷酷的引导页  
