@@ -17,7 +17,7 @@
 
 ## 名榜
 
-### 卷一
+### 卷一：兵器榜
 
 **MaterialChipsInput**  
 Implementation of Material Design Chips component for Android  
@@ -311,7 +311,7 @@ Android应用增量更新
 [https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/FlyRefresh.gif)  -->
 
-### 卷二  
+### 卷二：秘籍榜  
 
 **AndroidNote**  
 Android 学习笔记  
@@ -401,7 +401,7 @@ Clean 架构：Android-CleanArchitecture
 [https://github.com/android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-CleanArchitecture.png)-->
 
-### 卷三
+### 卷三：战役榜
 
 **Plaid**  
 一个提供设计新闻和灵感的Android应用程序，也是实施材料设计的一个例子  
