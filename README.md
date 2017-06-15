@@ -402,32 +402,16 @@ Clean 架构：Android-CleanArchitecture
 [https://github.com/android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-CleanArchitecture.png)-->
 
----
-
-****  
-  
-[]()  
-![]()  
-
 ### 卷三
 
 **Plaid**  
 一个提供设计新闻和灵感的Android应用程序，也是实施材料设计的一个例子  
 [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Plaid.gif)  -->
-
 ---
-
 **WeiBo**  
 第三方新浪微博客户端  
 [https://github.com/wenmingvs/WeiBo](https://github.com/wenmingvs/WeiBo)  
-
----
-
-****  
-  
-[]()  
-![]()  
 
 
 ## 遗碑
