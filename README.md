@@ -1,5 +1,5 @@
 # Android Bang
-
+![](https://img.shields.io/badge/language-java-orange.svg) ![](https://img.shields.io/badge/language-Android-orange.svg)
 安卓江湖，英雄辈出，群雄逐鹿，各怀神技，今立名榜，诸家武功，门派套路，逐一记之。  
 
 总榜分三：天榜、名榜、遗碑。
