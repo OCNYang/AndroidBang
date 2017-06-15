@@ -8,6 +8,21 @@
 * 名榜：十八般武艺，各路有套路。天下之大，得之你幸。
 * 遗碑：天下之大，天下之外，亦有天下。
 
+<HR style= " FILTER: alpha (opacity = 100, finishopacity =0 , style= 3 )" width ="80%" color =#987 cb 9 SIZE = 3>
+           <h3>2、纺锤形：</h3>
+           <HR style= " FILTER: alpha (opacity = 100, finishopacity =0 , style= 2 )" width ="80%" color =#987 cb 9 SIZE = 10>
+           <h3>3、右边渐变透明：</h3 >
+           <HR style= " FILTER: alpha (opacity = 100, finishopacity =0 , style= 1 )" width ="80%" color =#987 cb 9 SIZE = 3>
+           <h3>4、左边渐变透明：</h3 >
+           <HR style= " FILTER: alpha (opacity = 0, finishopacity =100 , style= 1 )" width ="80%" color =#987 cb 9 SIZE = 3>
+           <h3>5、虚线：</h3>
+           <HR style= " border: 1 dashed #987cb9" width ="80%" color =#987 cb 9 SIZE = 1>
+           <h3>6、双线：</h3>
+           <HR style= " border: 3 double #987cb9" width ="80%" color =#987 cb 9 SIZE = 3>
+           <h3>7、立体效果：</h3>
+           <HR style= " FILTER: progid:DXImageTransform.Microsoft.Shadow ( color: #987cb9 ,direction : 145, strength :15 ) " width = "80%" color = #987cb 9 SIZE= 1>
+           <h3>8、钢针效果：</h3>
+           <HR style= " FILTER: progid:DXImageTransform.Microsoft.Glow ( color= #987cb9 ,strength = 10) " width= "80%" color= #987 cb9 SIZE =1>
 
 ## 天榜
 
