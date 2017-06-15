@@ -23,12 +23,14 @@
 Implementation of Material Design Chips component for Android  
 [https://github.com/pchmn/MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialChipsInput.gif)  -->
+
 ##  
 
 **okhttp-OkGo**  
 OkGo 震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请求框架，完美支持RxJava，RxJava2，比Retrofit更简单易用。支持自定义缓存数据，扩展了统一的上传管理和下载管理功能  
 [https://github.com/jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/okgo.png)  -->
+
 ##  
 
 **okhttputils**  
@@ -42,114 +44,114 @@ OkGo 震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请�
 [https://github.com/dinuscxj/ShootRefreshView](https://github.com/dinuscxj/ShootRefreshView)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/ShootRefreshView.gif)  -->
 
----
+##  
 
 **schematic**  
 自动生成 ContentProviders  
 <!-- [https://github.com/SimonVT/schematic](https://github.com/SimonVT/schematic)  -->
 
----
+##  
 
 **Colorful**  
 运行时主题切换。 Android runtime theme library  
 [https://github.com/garretyoder/Colorful](https://github.com/garretyoder/Colorful)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Colorful.jpg)  -->
 
----
+##  
 
 **PhotoView**  
 通过各种触摸手势实现支持缩放功能的 ImageView for Android  
 [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)   
 
----
+##  
 
 **PinchImageView**  
 体验非常好的 Android 图片手势控件。  
 [https://github.com/boycy815/PinchImageView](https://github.com/boycy815/PinchImageView)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/PinchImageView.gif)  -->
 
----
+##  
 
 **TakePhoto**  
 一款用于在 Android 设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库  
 [https://github.com/crazycodeboy/TakePhoto](https://github.com/crazycodeboy/TakePhoto)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/takephoto_preview.png)  -->
 
----
+##  
 
 **ImagePicker**  
 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数  
 [https://github.com/jeasonlzy/ImagePicker](https://github.com/jeasonlzy/ImagePicker)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/ImagePicker.png)  -->
 
----
+##  
 
 **uCrop**  
 Android的图像裁剪库  
 [https://github.com/Yalantis/uCrop](https://github.com/Yalantis/uCrop)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/uCrop.gif)  -->
 
----
+##  
 
 **moco**  
 模拟服务器 Easy Setup Stub Server  
 [https://github.com/dreamhead/moco](https://github.com/dreamhead/moco)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/moco.png)  -->
 
----
+##  
 
 **RxPermissions**  
 由 RxJava 提供的 Android 运行时权限 Android runtime permissions powered by RxJava  
 [https://github.com/tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)   
 
----
+##  
 
 **easypermissions**  
 简化 Android M 系统权限 Simplify Android M system permissions  
 [https://github.com/googlesamples/easypermissions](https://github.com/googlesamples/easypermissions)   
 
----
+##  
 
 **AndPermission**  
 Android Runtime权限，支持在任何地方申请许可的权利。  
 [https://github.com/yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)   
 
----
+##  
 
 **PermissionsDispatcher**  
 简单的基于注释的API来处理运行时权限  
 [https://github.com/hotchemi/PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/PermissionsDispatcher.png) --> 
 
----
+##  
 
 **ToggleButton**  
 切换开关。 ToggleButton  
 [https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/ToggleButton.gif)  -->
 
----
+##  
 
-****  
+**ShortcutBadger**  
 支持三星，LG，索尼和 HTC 的应用图标角标  
 [https://github.com/leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/shortcutBadger.png)  -->
 
----
+##  
 
 **SmoothProgressBar**  
 加载条（停更很久）  
 [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/SmoothProgressBar.gif)  -->
 
----
+##  
 
 **EasyTagDragView**  
 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件  
 [https://github.com/wenhuaijun/EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/EasyTagDragView.gif)  -->
 
----
+##  
 
 **BottomBar**  
 模拟新材质设计底部导航模式的自定义视图组件。  
@@ -158,14 +160,14 @@ Android Runtime权限，支持在任何地方申请许可的权利。
 ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/BottomBar2.gif)
 ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/BottomBar3.png)  -->
 
----
+##  
 
 **MaterialLogin**  
 帅气的登录页面  
 [https://github.com/fanrunqi/MaterialLogin](https://github.com/fanrunqi/MaterialLogin)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialLoginfan.gif)  -->
 
----
+##  
 
 **MaterialLogin**  
 登录页：材料设计  
@@ -179,27 +181,27 @@ Android Runtime权限，支持在任何地方申请许可的权利。
 [https://github.com/apl-devs/AppIntro](https://github.com/apl-devs/AppIntro)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/AppIntro.jpg)  -->
 
----
+##  
 
 **SlidingTutorial-Android**  
 一款不错的引导页  
 [https://github.com/Cleveroad/SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/AndroidImageSlider.gif)  -->
 
----
+##  
 
 **MaterialDesignLibrary**  
 兼容到 Android 2.2 的材料设计库  
 [https://github.com/navasmdc/MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialDesignLibrary.png)  -->
 
----
+##  
 
 **material**  
 Material design 库控件  
 [https://github.com/rey5137/material](https://github.com/rey5137/material)  
 
----
+##  
 
 **Android-Material-Examples**  
 材料设计小实例  
@@ -207,102 +209,102 @@ Material design 库控件
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-Material-Examples.gif)
 ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-Material-Examples1.gif)  -->
 
----
+##  
 
 **AndroidImageSlider**  
 一款便捷的轮播图控件  
 [https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)   
 
----
+##  
 
 **MaterialViewPager**  
 材质设计 ViewPager  
 [https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialViewPager.png)  -->
 
----
+##  
 
 **Android-MaterialRefreshLayout**  
 一个下拉刷新控件  
 [https://github.com/android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-MaterialRefreshLayout.gif)  -->
 
----
+##  
 
 **XRecyclerView**  
 pullrefresh 刷新加载的动画列表  
 [https://github.com/jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/XRecyclerView.gif)  -->
 
----
+##  
 
 **Material-Animations**  
 界面之间转场动画  
 [https://github.com/lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Material-Animations.gif)  -->
 
----
+##  
 
 **MaterialTransitions**  
 转场动画（不再维护）  
 [https://github.com/toddway/MaterialTransitions](https://github.com/toddway/MaterialTransitions)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialTransitions.gif)  -->
 
----
+##  
 
 **SpringView**  
 果冻布局：自定义视图可以上下拖动，支持ScrollView，ListView，RecyclerView，WebView和所有其他视图，易于使用  
 [https://github.com/liaoinstan/SpringView](https://github.com/liaoinstan/SpringView)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/SpringView.gif)  -->
 
----
+##  
 
 **SpringIndicator**  
 一款viewpager指示器。  
 [https://github.com/chenupt/SpringIndicator](https://github.com/chenupt/SpringIndicator)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/SpringIndicator.gif)  -->
 
----
+##  
 
 **GoodView**  
 Android点赞+1效果，支持文本和图像  
 [https://github.com/venshine/GoodView](https://github.com/venshine/GoodView)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/GoodView.gif)  -->
 
----
+##  
 
 **SystemBarTint**  
 菜单栏颜色的设置  
 [https://github.com/jgilfelt/SystemBarTint](https://github.com/jgilfelt/SystemBarTint)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/SystemBarTint.png)  -->
 
----
+##  
 
 **SnailBar**  
 一款可爱的进度条  
 [https://github.com/android-cjj/SnailBar](https://github.com/android-cjj/SnailBar)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/SnailBar.gif)  -->
 
----
+##  
 
 **CoordinatorLayoutDemos**  
 简书上下滑 隐藏上下  
 [https://github.com/sungerk/CoordinatorLayoutDemos](https://github.com/sungerk/CoordinatorLayoutDemos)  
 
----
+##  
 
 **ItemTouchHelperDemo**  
 使用ItemTouchHelper实现今日头条 网易新闻 的频道排序、频道移动  
 [https://github.com/YoKeyword/ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/ItemTouchHelperDemo.gif)  -->
 
----
+##  
 
 **SmartAppUpdates**  
 Android应用增量更新  
 [https://github.com/cundong/SmartAppUpdates](https://github.com/cundong/SmartAppUpdates)  
 
----
+##  
 
 **FlyRefresh**  
 可爱个性的刷新控件  
@@ -316,83 +318,83 @@ Android 学习笔记
 [https://github.com/GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/AndroidNote.jpg)  -->
 
----
+##  
 
 **repo**  
 一个 Android 开发者记录自己的知识库  
 [https://github.com/suzeyu1992/repo](https://github.com/suzeyu1992/repo)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/repo.png)  -->
 
----
+##  
 
 **Android-Tips**  
 填坑手册：一个令人敬畏的Android的提示列表  
 [https://github.com/tangqi92/Android-Tips](https://github.com/tangqi92/Android-Tips)  
 <!-- ![http://obbu6r1mi.bkt.clouddn.com/AndroidBang/android_tips.png](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/android_tips.png) --> 
 
----
+##  
 
 **Useful-Open-Source-Android**  
 收集的第三方框架、控件  
 [https://github.com/ddwhan0123/Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android)   
 
----
+##  
 
 **awesome-view**  
 自定义View  
 [https://github.com/xinghongfei/awesome-view](https://github.com/xinghongfei/awesome-view)  
 
----
+##  
 
 **java-design-patterns**  
 Java设计模式。Design patterns implemented in Java  
 [https://github.com/iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)   
 
----
+##  
 
 **android-best-practices**  
 Android 开发准则（iOS & WP 版也有）。  
 [https://github.com/futurice/android-best-practices](https://github.com/futurice/android-best-practices)  
 
----
+##  
 
 **awesome-android-ui**  
 android UI设计的库集。A curated list of awesome Android UI/UX libraries   
 [https://github.com/OCNYang/awesome-android-ui](https://github.com/OCNYang/awesome-android-ui)    
 
----
+##  
 
 **AndroidUtilCode**  
 常见 Utils 类：Android 开发人员不得不收集的代码  
 [https://github.com/Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)   
 
----
+##  
 
 **android-common**  
 Utils类：一系列通用类、辅助类、工具类的集合  
 [https://github.com/litesuits/android-common](https://github.com/litesuits/android-common)  
 
----
+##  
 
 **notes**  
 Android 技术笔记  
 Github地址：[https://github.com/Piasy/notes](https://github.com/Piasy/notes)  
 GitBook版本：[https://notes.piasy.com/](https://notes.piasy.com/)  
 
----
+##  
 
 **android-open-project**  
 Android 开源项目分类汇总  
 [https://github.com/Trinea/android-open-project](https://github.com/Trinea/android-open-project)  
 
----
+##  
 
 **android-training-course-in-chinese**  
 Android 官方培训课程中文版  
 [https://github.com/kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/android-training-course-in-chinese.jpg)  -->
 
----
+##  
 
 **Android-CleanArchitecture**  
 Clean 架构：Android-CleanArchitecture  
@@ -405,12 +407,16 @@ Clean 架构：Android-CleanArchitecture
 一个提供设计新闻和灵感的Android应用程序，也是实施材料设计的一个例子  
 [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Plaid.gif)  -->
----
+
+##  
+
 **WeiBo**  
 第三方新浪微博客户端  
 [https://github.com/wenmingvs/WeiBo](https://github.com/wenmingvs/WeiBo)  
 
 
 ## 遗碑
+
+<br></br><br></br><br></br><br></br><br></br><br></br>
 
 
