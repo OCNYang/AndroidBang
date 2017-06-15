@@ -14,7 +14,7 @@
 **lottie-android**  
 在android上原生渲染Adobe Eff 动画。 Render After Effects animations natively on Android and iOS  
 [https://github.com/airbnb/lottie-android](https://github.com/airbnb/lottie-android)  
-![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/lottie_android.gif)  
+<!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/lottie_android.gif) --> 
 
 ---
 
