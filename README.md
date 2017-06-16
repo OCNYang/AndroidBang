@@ -10,7 +10,7 @@
 * 名榜：十八般武艺，各路有套路。天下之大，得之你幸。
 * 遗碑：天下之大，天下之外，亦有天下。
 
-[![](https://img.shields.io/badge/圣经-殿堂级-lightgrey.svg)](https://github.com/OCNYang/AndroidBang)
+
 [![](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/OCNYang/AndroidBang)
 ## 天榜
 
@@ -350,13 +350,13 @@ Android 学习笔记
 
 ##  
 
-**java-design-patterns**  
+**java-design-patterns**[![](https://img.shields.io/badge/圣经-殿堂级-lightgrey.svg)](https://github.com/iluwatar/java-design-patterns)  
 Java设计模式。Design patterns implemented in Java  
 [https://github.com/iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)   
 
 ##  
 
-**android-best-practices**  
+**android-best-practices**[![](https://img.shields.io/badge/圣经-殿堂级-lightgrey.svg)](https://github.com/futurice/android-best-practices)  
 Android 开发准则（iOS & WP 版也有）。  
 [https://github.com/futurice/android-best-practices](https://github.com/futurice/android-best-practices)  
 
@@ -364,11 +364,11 @@ Android 开发准则（iOS & WP 版也有）。
 
 **awesome-android-ui**  
 android UI设计的库集。A curated list of awesome Android UI/UX libraries   
-[https://github.com/OCNYang/awesome-android-ui](https://github.com/OCNYang/awesome-android-ui)    
+[https://github.com/wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)    
 
 ##  
 
-**AndroidUtilCode**  
+**AndroidUtilCode**[![](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/Blankj/AndroidUtilCode)  
 常见 Utils 类：Android 开发人员不得不收集的代码  
 [https://github.com/Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)   
 
@@ -387,20 +387,20 @@ GitBook版本：[https://notes.piasy.com/](https://notes.piasy.com/)
 
 ##  
 
-**android-open-project**  
+**android-open-project**[![](https://img.shields.io/badge/GitHub-21k+-brightgreen.svg?style=social)](https://github.com/Trinea/android-open-project)  
 Android 开源项目分类汇总  
 [https://github.com/Trinea/android-open-project](https://github.com/Trinea/android-open-project)  
 
 ##  
 
-**android-training-course-in-chinese**  
+**android-training-course-in-chinese**[![](https://img.shields.io/badge/GitHub-8k+-brightgreen.svg?style=social)](https://github.com/kesenhoo/android-training-course-in-chinese)  
 Android 官方培训课程中文版  
 [https://github.com/kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/android-training-course-in-chinese.jpg)  -->
 
 ##  
 
-**Android-CleanArchitecture**  
+**Android-CleanArchitecture**[![](https://img.shields.io/badge/GitHub-8k+-brightgreen.svg?style=social)](https://github.com/android10/Android-CleanArchitecture)  
 Clean 架构：Android-CleanArchitecture  
 [https://github.com/android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-CleanArchitecture.png)-->
