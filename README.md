@@ -50,7 +50,7 @@ OkGo 震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请�
 
 **schematic**  
 自动生成 ContentProviders  
-<!-- [https://github.com/SimonVT/schematic](https://github.com/SimonVT/schematic)  -->
+[https://github.com/SimonVT/schematic](https://github.com/SimonVT/schematic)  
 
 ##  
 
