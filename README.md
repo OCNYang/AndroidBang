@@ -350,13 +350,13 @@ Android 学习笔记
 
 ##  
 
-**java-design-patterns**&ensp;&ensp;&ensp;&ensp;[![](https://img.shields.io/badge/圣经-殿堂级-lightgrey.svg)](https://github.com/iluwatar/java-design-patterns)  
+**java-design-patterns**&ensp;&ensp;&ensp;&ensp;[![java-design-patterns](https://img.shields.io/badge/java--design--patterns-殿堂级-lightgrey.svg)](https://github.com/iluwatar/java-design-patterns)  
 Java设计模式。Design patterns implemented in Java  
 [https://github.com/iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)   
 
 ##  
 
-**android-best-practices**&ensp;&ensp;&ensp;&ensp;[![](https://img.shields.io/badge/android best practices-殿堂级-lightgrey.svg)](https://github.com/futurice/android-best-practices)  
+**android-best-practices**&ensp;&ensp;&ensp;&ensp;[![android-best-practices](https://img.shields.io/badge/android--best--practices-殿堂级-lightgrey.svg)](https://github.com/futurice/android-best-practices)  
 Android 开发准则（iOS & WP 版也有）。  
 [https://github.com/futurice/android-best-practices](https://github.com/futurice/android-best-practices)  
 
@@ -368,7 +368,7 @@ android UI设计的库集。A curated list of awesome Android UI/UX libraries
 
 ##  
 
-**AndroidUtilCode**&ensp;&ensp;&ensp;&ensp;[![](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/Blankj/AndroidUtilCode)  
+**AndroidUtilCode**&ensp;&ensp;&ensp;&ensp;[![AndroidUtilCode](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/Blankj/AndroidUtilCode)  
 常见 Utils 类：Android 开发人员不得不收集的代码  
 [https://github.com/Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)   
 
@@ -387,20 +387,20 @@ GitBook版本：[https://notes.piasy.com/](https://notes.piasy.com/)
 
 ##  
 
-**android-open-project**&ensp;&ensp;&ensp;&ensp;[![](https://img.shields.io/badge/GitHub-21k+-brightgreen.svg?style=social)](https://github.com/Trinea/android-open-project)  
+**android-open-project**&ensp;&ensp;&ensp;&ensp;[![android-open-project](https://img.shields.io/badge/GitHub-21k+-brightgreen.svg?style=social)](https://github.com/Trinea/android-open-project)  
 Android 开源项目分类汇总  
 [https://github.com/Trinea/android-open-project](https://github.com/Trinea/android-open-project)  
 
 ##  
 
-**android-training-course-in-chinese**&ensp;&ensp;&ensp;&ensp;[![](https://img.shields.io/badge/GitHub-8k+-brightgreen.svg?style=social)](https://github.com/kesenhoo/android-training-course-in-chinese)  
+**android-training-course-in-chinese**&ensp;&ensp;&ensp;&ensp;[![android-training-course-in-chinese](https://img.shields.io/badge/GitHub-8k+-brightgreen.svg?style=social)](https://github.com/kesenhoo/android-training-course-in-chinese)  
 Android 官方培训课程中文版  
 [https://github.com/kesenhoo/android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/android-training-course-in-chinese.jpg)  -->
 
 ##  
 
-**Android-CleanArchitecture**&ensp;&ensp;&ensp;&ensp;[![](https://img.shields.io/badge/GitHub-8k+-brightgreen.svg?style=social)](https://github.com/android10/Android-CleanArchitecture)  
+**Android-CleanArchitecture**&ensp;&ensp;&ensp;&ensp;[![Android-CleanArchitecture](https://img.shields.io/badge/GitHub-8k+-brightgreen.svg?style=social)](https://github.com/android10/Android-CleanArchitecture)  
 Clean 架构：Android-CleanArchitecture  
 [https://github.com/android10/Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-CleanArchitecture.png)-->
