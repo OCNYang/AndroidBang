@@ -1,7 +1,7 @@
 # Android Bang
-![](https://img.shields.io/badge/language-java-orange.svg) 
-![](https://img.shields.io/badge/language-Android-orange.svg)
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/OCNYang/AndroidBang)  
+[![java](https://img.shields.io/badge/language-java-orange.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
+[![Android](https://img.shields.io/badge/language-Android-orange.svg)](https://developer.android.com/index.html)
+<!--[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/OCNYang/AndroidBang)  -->
 安卓江湖，英雄辈出，群雄逐鹿，各怀神技，今立名榜，诸家武功，门派套路，逐一记之。  
 
 总榜分三：天榜、名榜、遗碑。
@@ -10,10 +10,8 @@
 * 名榜：十八般武艺，各路有套路。天下之大，得之你幸。
 * 遗碑：天下之大，天下之外，亦有天下。
 
-![](https://img.shields.io/badge/%E6%AE%BF%E5%A0%82-Gord-lightgrey.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA3klEQVQ4T62SYQ3CQAyFvznAAZMwCUgAB0MBOAAUgARwgAMmAQngYA4g3+VKLsu2XzRpern2vfb1rmLaOmA1la7+DayBB7ABnmPkYx2PwA5YZMAFOAF9SRBAOxyyJs+33MlzC3wANUuQJhDYAHdgn/0K6GGRl8Du1nUCBXnhKI65HtFk3rpX7lwLFKAeV68LHlrcGR21ESiLWhzJEY1D816NxlQvUJYlsC2SpUZHt0ZC9Rnb2Gp08u2S+OwWCVSjMt55y335jo6rT5m7+H2GAMp8ngFFyvdNMub+6izPF5b0Mg8iq/1UAAAAAElFTkSuQmCC)
-![](https://img.shields.io/badge/gadget-Raspberry%20Pi-pink.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAACJ0lEQVR4AW2Qy0tUfxjGv3Pm3O%2BXGec3jnMZZ9Rxxp%2BWkYpJ2QkVIzDpkkoGBSOpBZmWgRIkWSs30SJchC26B9aijKLaFET9Be1q46ayRVDU5uk9Q8seeOG8X573eT%2FnZbwQqo5l5Rube52PQdH3BcaY4SbEiy2%2B%2FWFLv7ueblJv0luJmRHBHzqfwuyDRkzfKqB8pRZeQnwzuZynvgHTtwsYvZRBs2%2BVGSU5nfsjX2bocexqDsMLKXgZCQfmkzi6lK0EDJxOfNJdoYORQl5O3OeXY5%2BH59PI5XXUMh3RuIQR6v2J2Ld8h3488FXMBWb2TJkNPw9GUzirF3HX2oZFrQUD0Rqc84rfVcaPs0D%2FcTK%2FQ6y6N6eVsJX3MCglcUzJYVytw6CYxKRSj1Elu0bWCBNCXCnPGz96pTieOTvxyN6OIm%2Fhid2Nx1SzWhGxsLwR4aQ9rFOMPl8lwwQlvXZ78NLZhRbBwZrTjReOjzuENKc1YUTOrLJ%2BKf7%2BsrEJhIL7dhfOaI34n7cxpRWwYnbghFqPMmENyelXzOLE0d1SNbrFGOKcgmDwnduH61Y7zJCAvVINDisZJMPqNEuHVeOQnPr11u3FESWLa2ZbBecp8VNaZXBBb15njHUxmxPC7YK3uGS0YkzNo1VwcZJWtwkeThHKMg33SfEVMqsskBeSjLqwMZYKa18ppXKRwESIv0u8NVPFyRb7hxK0ZYX%2BfIPO95D6KBXH%2FuoPnu%2FBfZ7Zxb0AAAAASUVORK5CYII)
-![](https://img.shields.io/badge/%E6%AE%BF%E5%A0%82-Gord-lightgrey.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA+UlEQVQ4T9WSPVLCYBCGdzcjtl8hpMUTyA2IDT+lN8ATkNzAG4R4AXIErQw06A3CDWiRJqWTkX2dhYEZNBlHOr9uf57vfXdnmc58XMctYuc+iNwwKlZVPZWgQaVcPhHBsWLUizb5d7gSnCWtBwLdQPiNQO3BeB1WgnuFxq6oWqZmL0v8FYEwCNfX87jZUU8CBlxDy8ltVBRHxVnSysGcWhHgLgk971SAgIkKVrxCOOyP3zuWPoJZ4k9ENYfIlFXve9EmtYZ53BxZjhR3EA4Otk9mfImvAs8j1G36Yvu5NJsnihZkj35oVuvAw3w/wL/cQu0B/PbJPwK/AHFeZg/m13VjAAAAAElFTkSuQmCC)
-![](https://img.shields.io/badge/GitHub-%2B1000-brightgreen.svg?style=social)
+[![](https://img.shields.io/badge/圣经-殿堂级-lightgrey.svg)](https://github.com/OCNYang/AndroidBang)
+[![](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/OCNYang/AndroidBang)
 ## 天榜
 
 **lottie-android**  
