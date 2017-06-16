@@ -10,8 +10,6 @@
 * 名榜：十八般武艺，各路有套路。天下之大，得之你幸。
 * 遗碑：天下之大，天下之外，亦有天下。
 
-
-[![](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/OCNYang/AndroidBang)
 ## 天榜
 
 **lottie-android**  
@@ -63,7 +61,7 @@ OkGo 震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请�
 
 ##  
 
-**PhotoView**  
+**PhotoView**&ensp;&ensp;&ensp;&ensp;[![PhotoView](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/chrisbanes/PhotoView)  
 通过各种触摸手势实现支持缩放功能的 ImageView for Android  
 [https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)   
 
@@ -194,7 +192,7 @@ Android Runtime权限，支持在任何地方申请许可的权利。
 
 ##  
 
-**MaterialDesignLibrary**  
+**MaterialDesignLibrary**&ensp;&ensp;&ensp;&ensp;[![MaterialDesignLibrary](https://img.shields.io/badge/GitHub-8k+-brightgreen.svg?style=social)](https://github.com/navasmdc/MaterialDesignLibrary)  
 兼容到 Android 2.2 的材料设计库  
 [https://github.com/navasmdc/MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialDesignLibrary.png)  -->
@@ -242,7 +240,7 @@ pullrefresh 刷新加载的动画列表
 
 ##  
 
-**Material-Animations**  
+**Material-Animations**&ensp;&ensp;&ensp;&ensp;[![Material-Animations](https://img.shields.io/badge/GitHub-9k+-brightgreen.svg?style=social)](https://github.com/lgvalle/Material-Animations)  
 界面之间转场动画  
 [https://github.com/lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Material-Animations.gif)  -->
