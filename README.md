@@ -22,9 +22,9 @@
 
 ##  
 
-**vlayout**  
-类似淘宝页面的列表。VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。  
-[https://github.com/alibaba/vlayout](https://github.com/alibaba/vlayout)  
+**vlayout**  
+类似淘宝页面的列表。VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。  
+[https://github.com/alibaba/vlayout](https://github.com/alibaba/vlayout)  
 
 ## 名榜
 
