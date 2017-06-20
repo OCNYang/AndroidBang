@@ -110,6 +110,12 @@ Android的图像裁剪库
 
 ##  
 
+**cropiwa**  
+Android的可配置自定义裁剪窗口小部件  
+[https://github.com/steelkiwi/cropiwa](https://github.com/steelkiwi/cropiwa)  
+
+##  
+
 **moco**  
 模拟服务器 Easy Setup Stub Server  
 [https://github.com/dreamhead/moco](https://github.com/dreamhead/moco)  
@@ -238,6 +244,12 @@ Material design 库控件
 材质设计 ViewPager  
 [https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/MaterialViewPager.png)  -->
+
+##  
+
+**SmartTabLayout**  
+自定义ViewPager标题栏  
+[https://github.com/ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)  
 
 ##  
 
