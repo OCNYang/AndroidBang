@@ -54,6 +54,12 @@ OkGo 震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请�
 
 ##  
 
+**emojicon**  
+用于在TextView中显示表情符号的库，用于Android的EditText  
+[https://github.com/rockerhieu/emojicon](https://github.com/rockerhieu/emojicon)  
+
+##  
+
 **Colorful**  
 运行时主题切换。 Android runtime theme library  
 [https://github.com/garretyoder/Colorful](https://github.com/garretyoder/Colorful)  
