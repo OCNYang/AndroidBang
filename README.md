@@ -15,6 +15,57 @@
 
 ## 天榜
 
+[**retrofit**](https://github.com/square/retrofit)  
+
+[**okhttp**](https://github.com/square/okhttp)  
+
+[**RxJava**](https://github.com/ReactiveX/RxJava)  
+
+[**picasso**](https://github.com/square/picasso)  
+
+[**glide**](https://github.com/bumptech/glide)  
+
+[**fresco**](https://github.com/facebook/fresco)  
+
+[**butterknife**](https://github.com/JakeWharton/butterknife)  
+
+[**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart)  
+
+[**EventBus**](https://github.com/greenrobot/EventBus)  
+
+[**greenDAO**](https://github.com/greenrobot/greenDAO)  
+
+[**ormlite**](http://ormlite.com/)  
+
+[**gson**](https://github.com/google/gson)  
+
+[**react-native**](https://github.com/facebook/react-native)  
+
+[**logger**](https://github.com/orhanobut/logger)  
+
+[**Bilibili / ijkplayer**](https://github.com/Bilibili/ijkplayer)  
+
+[**zxing**](https://github.com/zxing/zxing)  
+
+[**leakcanary**](https://github.com/square/leakcanary)  
+
+[****]()  
+
+[****]()  
+
+[****]()  
+
+[****]()  
+
+[****]()  
+
+[****]()  
+
+[****]()  
+
+
+##  
+
 **lottie-android**  
 在android上原生渲染Adobe Eff 动画。 Render After Effects animations natively on Android and iOS  
 [https://github.com/airbnb/lottie-android](https://github.com/airbnb/lottie-android)  
@@ -339,6 +390,19 @@ Android应用增量更新
 可爱个性的刷新控件  
 [https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/FlyRefresh.gif)  -->
+
+##  
+
+**vlc**  
+VLC媒体播放器  
+[https://github.com/videolan/vlc](https://github.com/videolan/vlc)  
+
+##  
+
+**FFmpeg**  
+FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒体内容的图书馆和工具的集合。  
+[https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
+
 
 ### 卷二：秘籍榜  
 
