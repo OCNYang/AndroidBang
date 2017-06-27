@@ -16,53 +16,22 @@
 ## 天榜
 
 [**retrofit**](https://github.com/square/retrofit)  
-
 [**okhttp**](https://github.com/square/okhttp)  
-
 [**RxJava**](https://github.com/ReactiveX/RxJava)  
-
 [**picasso**](https://github.com/square/picasso)  
-
 [**glide**](https://github.com/bumptech/glide)  
-
 [**fresco**](https://github.com/facebook/fresco)  
-
 [**butterknife**](https://github.com/JakeWharton/butterknife)  
-
 [**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart)  
-
 [**EventBus**](https://github.com/greenrobot/EventBus)  
-
 [**greenDAO**](https://github.com/greenrobot/greenDAO)  
-
 [**ormlite**](http://ormlite.com/)  
-
 [**gson**](https://github.com/google/gson)  
-
 [**react-native**](https://github.com/facebook/react-native)  
-
 [**logger**](https://github.com/orhanobut/logger)  
-
 [**Bilibili / ijkplayer**](https://github.com/Bilibili/ijkplayer)  
-
 [**zxing**](https://github.com/zxing/zxing)  
-
 [**leakcanary**](https://github.com/square/leakcanary)  
-
-[****]()  
-
-[****]()  
-
-[****]()  
-
-[****]()  
-
-[****]()  
-
-[****]()  
-
-[****]()  
-
 
 ##  
 
@@ -236,6 +205,12 @@ Android Runtime权限，支持在任何地方申请许可的权利。
 
 ##  
 
+**AndroidSlidingUpPanel**  
+提供了一个简单的方式来添加一个可拖动的滑动面板（由Google音乐和Google Maps推广）到您的Android应用程序。  
+[https://github.com/umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)  
+
+##  
+
 **MaterialLogin**  
 帅气的登录页面  
 [https://github.com/fanrunqi/MaterialLogin](https://github.com/fanrunqi/MaterialLogin)  
@@ -285,6 +260,12 @@ Material design 库控件
 
 ##  
 
+**material-dialogs**  
+一个美丽，流体，和可定制的对话框
+[https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)  
+
+##  
+
 **AndroidImageSlider**  
 一款便捷的轮播图控件  
 [https://github.com/daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)   
@@ -298,6 +279,12 @@ Material design 库控件
 
 ##  
 
+**ViewPagerIndicator**  
+分页指示器与 Android 支持库和 ActionBarSherlock 中的 ViewPager 兼容。  
+[https://github.com/JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)  
+
+##  
+
 **SmartTabLayout**  
 自定义ViewPager标题栏  
 [https://github.com/ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)  
@@ -308,6 +295,12 @@ Material design 库控件
 一个下拉刷新控件  
 [https://github.com/android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)  
 <!-- ![](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/Android-MaterialRefreshLayout.gif)  -->
+
+##  
+
+**Android-ObservableScrollView**  
+可以在滚动视图上观察滚动事件  
+[https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)  
 
 ##  
 
@@ -403,6 +396,17 @@ VLC媒体播放器
 FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒体内容的图书馆和工具的集合。  
 [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
 
+##  
+
+**AndroidSwipeLayout**  
+强大的滑动菜单和布局  
+[https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)  
+
+##  
+
+**CircleImageView**  
+圆形 ImageView
+[https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)   
 
 ### 卷二：秘籍榜  
 
