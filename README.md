@@ -16,21 +16,21 @@
 ## 天榜
 
 [**retrofit**](https://github.com/square/retrofit)  
-[**okhttp**](https://github.com/square/okhttp)  
+[okhttp](https://github.com/square/okhttp)  
 [**RxJava**](https://github.com/ReactiveX/RxJava)  
-[**picasso**](https://github.com/square/picasso)  
+[picasso](https://github.com/square/picasso)  
 [**glide**](https://github.com/bumptech/glide)  
-[**fresco**](https://github.com/facebook/fresco)  
+[fresco](https://github.com/facebook/fresco)  
 [**butterknife**](https://github.com/JakeWharton/butterknife)  
-[**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart)  
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)  
 [**EventBus**](https://github.com/greenrobot/EventBus)  
-[**greenDAO**](https://github.com/greenrobot/greenDAO)  
+[greenDAO](https://github.com/greenrobot/greenDAO)  
 [**ormlite**](http://ormlite.com/)  
-[**gson**](https://github.com/google/gson)  
+[gson](https://github.com/google/gson)  
 [**react-native**](https://github.com/facebook/react-native)  
-[**logger**](https://github.com/orhanobut/logger)  
+[logger](https://github.com/orhanobut/logger)  
 [**Bilibili / ijkplayer**](https://github.com/Bilibili/ijkplayer)  
-[**zxing**](https://github.com/zxing/zxing)  
+[zxing](https://github.com/zxing/zxing)  
 [**leakcanary**](https://github.com/square/leakcanary)  
 
 ##  
@@ -260,8 +260,8 @@ Material design 库控件
 
 ##  
 
-**material-dialogs**  
-一个美丽，流体，和可定制的对话框
+**material-dialogs**&ensp;&ensp;&ensp;&ensp;[![material-dialogs](https://img.shields.io/badge/GitHub-10k+-brightgreen.svg?style=social)](https://github.com/afollestad/material-dialogs)  
+一个美丽，流体，和可定制的对话框  
 [https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)  
 
 ##  
@@ -400,13 +400,14 @@ FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒�
 
 **AndroidSwipeLayout**  
 强大的滑动菜单和布局  
-[https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)  
+[https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)  
 
-##  
+##  
 
 **CircleImageView**  
-圆形 ImageView
+圆形 ImageView  
 [https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)   
+
 
 ### 卷二：秘籍榜  
 
