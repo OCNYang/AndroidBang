@@ -15,22 +15,33 @@
 
 ## 天榜
 
-[**retrofit**](https://github.com/square/retrofit)&ensp;&ensp;
-[**okhttp**](https://github.com/square/okhttp)&ensp;&ensp;
+[**retrofit**](https://github.com/square/retrofit)&ensp;|&ensp;
+[**okhttp**](https://github.com/square/okhttp)&ensp;|&ensp;
 [**RxJava**](https://github.com/ReactiveX/RxJava)  
-[**picasso**](https://github.com/square/picasso)&ensp;&ensp;
-[**glide**](https://github.com/bumptech/glide)&ensp;&ensp;
+
+[**picasso**](https://github.com/square/picasso)&ensp;|&ensp;
+[**glide**](https://github.com/bumptech/glide)&ensp;|&ensp;
 [**fresco**](https://github.com/facebook/fresco)  
+
 [**butterknife**](https://github.com/JakeWharton/butterknife)  
+
 [**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart)  
+
 [**EventBus**](https://github.com/greenrobot/EventBus)  
-[**greenDAO**](https://github.com/greenrobot/greenDAO)&ensp;&ensp;
+
+[**greenDAO**](https://github.com/greenrobot/greenDAO)&ensp;|&ensp;
 [**ormlite**](http://ormlite.com/)  
+
 [**gson**](https://github.com/google/gson)  
+
 [**react-native**](https://github.com/facebook/react-native)  
+
 [**logger**](https://github.com/orhanobut/logger)  
+
 [**Bilibili / ijkplayer**](https://github.com/Bilibili/ijkplayer)  
+
 [**zxing**](https://github.com/zxing/zxing)  
+
 [**leakcanary**](https://github.com/square/leakcanary)  
 
 ##  
