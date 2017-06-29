@@ -513,7 +513,7 @@ Clean 架构：Android-CleanArchitecture
 ##  
 
 **kotlin**&ensp;&ensp;&ensp;&ensp;[![kotlin](https://img.shields.io/badge/GitHub-15k+-brightgreen.svg?style=social)](https://github.com/JetBrains/kotlin)  
-Kotlin 编程语言 http://kotlinlang.org/  
+Kotlin 编程语言 kotlinlang.org  
 [https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotlin)  
 
 ### 卷三：战役榜
