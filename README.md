@@ -48,8 +48,6 @@
 
 ### 副册：倚天屠龙，刀剑各雄
 
-##  
-
 **lottie-android**  
 在android上原生渲染Adobe Eff 动画。 Render After Effects animations natively on Android and iOS  
 [https://github.com/airbnb/lottie-android](https://github.com/airbnb/lottie-android)  
@@ -64,7 +62,7 @@
 ##  
 
 **flexbox-layout**  
-Flexbox for Android,现在已经支持 RecycleView  
+Flexbox for Android,现在已经支持 RecycleView  
 [https://github.com/google/flexbox-layout](https://github.com/google/flexbox-layout)  
 
 ## 名榜
