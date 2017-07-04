@@ -430,8 +430,14 @@ FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒�
 ##  
 
 **FabulousFilter**  
-将 FAB 以动画的形式变成底部对话框   
-[https://github.com/Krupen/FabulousFilter](https://github.com/Krupen/FabulousFilter)  
+将 FAB 以动画的形式变成底部对话框    
+[https://github.com/Krupen/FabulousFilter](https://github.com/Krupen/FabulousFilter)   
+
+##  
+
+**cardslider-android**  
+Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集。  
+[https://github.com/Ramotion/cardslider-android](https://github.com/Ramotion/cardslider-android)  
 
 ### 卷二：秘籍榜  
 
