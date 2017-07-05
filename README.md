@@ -10,7 +10,7 @@
 总榜分三：天榜、名榜、遗碑。
 
 * 天榜：或名门正派，或鬼斧神工。天下之大，缺之若失。
-* 名榜：十八般武艺，各路有套路。天下之大，得之你幸。
+* 名榜：十八般武艺，各家有套路。天下之大，得之你幸。
 * 遗碑：天下之大，天下之外，亦有天下。
 
 ## 天榜
@@ -436,8 +436,9 @@ FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒�
 ##  
 
 **cardslider-android**  
-Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集。   
+Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集。  
 [https://github.com/Ramotion/cardslider-android](https://github.com/Ramotion/cardslider-android)  
+
 
 
 ### 卷二：秘籍榜  
@@ -538,9 +539,10 @@ Kotlin 编程语言 kotlinlang.org
 
 ##  
 
-**free-programming-books**&ensp;&ensp;&ensp;&ensp;[![free-programming-books](https://img.shields.io/badge/free--programming--books-殿堂级-lightgrey.svg)](https://github.com/EbookFoundation/free-programming-books)  
-可免费得到的编程书籍集合，各种编程语言，有中文版  
+**free-programming-books**&ensp;&ensp;&ensp;&ensp;[![free-programming-books](https://img.shields.io/badge/free--programming--books-殿堂级-lightgrey.svg)](https://github.com/EbookFoundation/free-programming-books)  
+可免费得到的编程书籍集合，各种编程语言，有中文版  
 [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)  
+
 
 
 ### 卷三：战役榜
