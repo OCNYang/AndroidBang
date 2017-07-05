@@ -534,7 +534,14 @@ Clean 架构：Android-CleanArchitecture
 
 **kotlin**&ensp;&ensp;&ensp;&ensp;[![kotlin](https://img.shields.io/badge/GitHub-15k+-brightgreen.svg?style=social)](https://github.com/JetBrains/kotlin)  
 Kotlin 编程语言 kotlinlang.org  
-[https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotlin)  
+[https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotlin)   
+
+##  
+
+**free-programming-books**&ensp;&ensp;&ensp;&ensp;[![free-programming-books](https://img.shields.io/badge/free--programming--books-殿堂级-lightgrey.svg)](https://github.com/EbookFoundation/free-programming-books)  
+可免费得到的编程书籍集合，各种编程语言，有中文版  
+[https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)  
+
 
 ### 卷三：战役榜
 
