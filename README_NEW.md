@@ -50,7 +50,7 @@
 
 
 | 名称 | 类型 | 说明 |
-|:----:|:----:|-----|
+|:----:|------|-----|
 | [lottie-android](https://github.com/airbnb/lottie-android) | 动画 | 在android上原生渲染Adobe Eff 动画。 Render After Effects animations natively on Android and iOS |
 | [vlayout](https://github.com/alibaba/vlayout) | Recy | 类似淘宝页面的列表。VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题 |
 | [flexbox-layout](https://github.com/google/flexbox-layout) | 布局 | Flexbox for Android,现在已经支持 RecycleView |
