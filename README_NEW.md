@@ -2,7 +2,7 @@
 [![java](https://img.shields.io/badge/language-java-orange.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
 [![Android](https://img.shields.io/badge/language-Android-orange.svg)](https://developer.android.com/index.html)  
 <!--[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/OCNYang/AndroidBang)  -->
-[**表格版**](https://github.com/OCNYang/AndroidBang/blob/master/README_NEW.md)&ensp;|&ensp;
+**表格版**&ensp;|&ensp;
 [**条目版**](https://github.com/OCNYang/AndroidBang)  
 [![AndroidBang](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/androidbang.png)](https://github.com/OCNYang/AndroidBang)
 
@@ -160,5 +160,5 @@
 <br></br><br></br><br></br><br></br><br></br><br></br>
 
 
-[**表格版**](https://github.com/OCNYang/AndroidBang/blob/master/README_NEW.md)&ensp;|&ensp;
+**表格版**&ensp;|&ensp;
 [**条目版**](https://github.com/OCNYang/AndroidBang)
