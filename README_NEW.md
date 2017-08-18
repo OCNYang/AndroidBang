@@ -1,8 +1,9 @@
 # Android Bang
 [![java](https://img.shields.io/badge/language-java-orange.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
-[![Android](https://img.shields.io/badge/language-Android-orange.svg)](https://developer.android.com/index.html)
+[![Android](https://img.shields.io/badge/language-Android-orange.svg)](https://developer.android.com/index.html)  
 <!--[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/OCNYang/AndroidBang)  -->
-
+[**表格版**](https://github.com/OCNYang/AndroidBang/blob/master/README_NEW.md)&ensp;|&ensp;
+[**条目版**](https://github.com/OCNYang/AndroidBang)  
 [![AndroidBang](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/androidbang.png)](https://github.com/OCNYang/AndroidBang)
 
 安卓江湖，英雄辈出，群雄逐鹿，各怀神技，今立名榜，诸家武功，门派套路，逐一记之。  
@@ -159,3 +160,5 @@
 <br></br><br></br><br></br><br></br><br></br><br></br>
 
 
+[**表格版**](https://github.com/OCNYang/AndroidBang/blob/master/README_NEW.md)&ensp;|&ensp;
+[**条目版**](https://github.com/OCNYang/AndroidBang)
