@@ -4,7 +4,7 @@
 <!--[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/OCNYang/AndroidBang)  -->
 
 [**表格版**](https://github.com/OCNYang/AndroidBang/blob/master/README_NEW.md)&ensp;|&ensp;
-[**条目版**](https://github.com/OCNYang/AndroidBang)
+**条目版**
 
 [![AndroidBang](http://obbu6r1mi.bkt.clouddn.com/AndroidBang/androidbang.png)](https://github.com/OCNYang/AndroidBang)
 
@@ -574,4 +574,4 @@ Kotlin 编程语言 kotlinlang.org
 
 
 [**表格版**](https://github.com/OCNYang/AndroidBang/blob/master/README_NEW.md)&ensp;|&ensp;
-[**条目版**](https://github.com/OCNYang/AndroidBang)
+**条目版**
