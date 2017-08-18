@@ -76,47 +76,47 @@
 | [cropiwa](https://github.com/steelkiwi/cropiwa) | 图片裁剪 | Android的可配置自定义裁剪窗口小部件 |
 | [moco](https://github.com/dreamhead/moco) | 数据 | 模拟服务器 Easy Setup Stub Server |
 | [RxPermissions](https://github.com/tbruyelle/RxPermissions) | 运行权限 | 由 RxJava 提供的 Android 运行时权限 Android runtime permissions powered by RxJava |
-| [easypermissions](https://github.com/googlesamples/easypermissions) ｜ 运行权限 ｜ 简化 Android M 系统权限 Simplify Android M system permissions ｜
-| [AndPermission](https://github.com/yanzhenjie/AndPermission) ｜ 运行权限 ｜ Android Runtime权限，支持在任何地方申请许可的权利。 ｜
-| [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) ｜ 运行权限 ｜ 简单的基于注释的API来处理运行时权限 ｜
-| [ToggleButton](https://github.com/zcweng/ToggleButton) ｜ 控件 ｜ 切换开关。 ToggleButton ｜
-| [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) ｜ 角标 ｜ 支持三星，LG，索尼和 HTC 的应用图标角标 ｜
-| [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) ｜ 控件 ｜ 加载条（停更很久） ｜
-| [EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView) ｜ 控件 ｜ 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件 ｜
-| [ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo) ｜ 布局 ｜ 使用ItemTouchHelper实现今日头条 网易新闻 的频道排序、频道移动 ｜
-| [BottomBar](https://github.com/roughike/BottomBar) ｜ 控件 ｜ 模拟新材质设计底部导航模式的自定义视图组件。 ｜
-| [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) ｜ 面板控件 ｜ 提供了一个简单的方式来添加一个可拖动的滑动面板（由Google音乐和Google Maps推广）到您的Android应用程序。 ｜
-| [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) ｜ 登录布局 ｜ 帅气的登录页面 ｜
-| [MaterialLogin](https://github.com/shem8/MaterialLogin) ｜ 登录布局 ｜ 登录页：材料设计 ｜
-| [AppIntro](https://github.com/apl-devs/AppIntro) ｜ 引导页 ｜ 一款酷酷的引导页 ｜
-| [SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android) ｜ 引导页 ｜ 一款不错的引导页 ｜
-| [![MaterialDesignLibrary](https://img.shields.io/badge/MaterialDesignLibrary-8k+-brightgreen.svg?style=social)](https://github.com/navasmdc/MaterialDesignLibrary) ｜ 材料设计 ｜ 兼容到 Android 2.2 的材料设计库 ｜
-| [material](https://github.com/rey5137/material) ｜ 材料设计 ｜ Material design 库控件 ｜
-| [Android-Material-Examples](https://github.com/saulmm/Android-Material-Examples) ｜ 材料设计 ｜ 材料设计小实例 ｜
-| [![material-dialogs](https://img.shields.io/badge/material_dialogs-10k+-brightgreen.svg?style=social)](https://github.com/afollestad/material-dialogs) ｜ 材料设计 ｜ 一个美丽，流体，和可定制的对话框 ｜
-| [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) ｜ 轮播图 ｜ 一款便捷的轮播图控件 ｜
-| [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ｜ ViewPager ｜ 材质设计 ViewPager ｜
-| [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) ｜ 指示器 ｜ 分页指示器与 Android 支持库和 ActionBarSherlock 中的 ViewPager 兼容 ｜
-| [SpringIndicator](https://github.com/chenupt/SpringIndicator) ｜ 指示器 ｜ 一款viewpager指示器。 ｜
-| [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) ｜ ViewPager标题栏 ｜ 自定义ViewPager标题栏 ｜
-| [Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) ｜ 刷新控件 ｜ 一个下拉刷新控件 ｜
-| [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) ｜ 视图 ｜ 可以在滚动视图上观察滚动事件 ｜
-| [XRecyclerView](https://github.com/jianghejie/XRecyclerView) ｜ 刷新控件 ｜ pullrefresh 刷新加载的动画列表 ｜
-| [![Material-Animations](https://img.shields.io/badge/Material_Animations-9k+-brightgreen.svg?style=social)](https://github.com/lgvalle/Material-Animations) ｜ 动画 ｜ 界面之间转场动画 ｜
-| [MaterialTransitions](https://github.com/toddway/MaterialTransitions) ｜ 转场动画 ｜ 转场动画（不再维护） ｜
-| [SpringView](https://github.com/liaoinstan/SpringView) ｜ 布局 ｜ 果冻布局：自定义视图可以上下拖动，支持ScrollView，ListView，RecyclerView，WebView和所有其他视图，易于使用 ｜
-| [GoodView](https://github.com/venshine/GoodView) ｜ 点赞控件 ｜ Android点赞+1效果，支持文本和图像 ｜
-| [SystemBarTint](https://github.com/jgilfelt/SystemBarTint) ｜ 菜单栏 ｜ 菜单栏颜色的设置 ｜
-| [SnailBar](https://github.com/android-cjj/SnailBar) ｜ 控件 ｜ 一款可爱的进度条 ｜
-| [CoordinatorLayoutDemos](https://github.com/sungerk/CoordinatorLayoutDemos) ｜ 布局 ｜ 简书上下滑 隐藏上下 ｜
-| [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) ｜ 更新 ｜ Android应用增量更新 ｜
-| [FlyRefresh](https://github.com/race604/FlyRefresh) ｜ 刷新控件 ｜ 可爱个性的刷新控件 ｜
-| [vlc](https://github.com/videolan/vlc) ｜ 媒体播放 ｜ VLC媒体播放器 ｜
-| [FFmpeg](https://github.com/FFmpeg/FFmpeg) ｜ 媒体播放 ｜ FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒体内容的图书馆和工具的集合 ｜
-| [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) ｜ 布局 ｜ 强大的滑动菜单和布局 ｜
-| [CircleImageView](https://github.com/hdodenhof/CircleImageView) ｜ 图片 ｜ 圆形 ImageView ｜
-| [FabulousFilter](https://github.com/Krupen/FabulousFilter) ｜ 控件 ｜ 将 FAB 以动画的形式变成底部对话框 ｜
-| [cardslider-android](https://github.com/Ramotion/cardslider-android) ｜ 控件 ｜ Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集 ｜
+| [easypermissions](https://github.com/googlesamples/easypermissions) | 运行权限 | 简化 Android M 系统权限 Simplify Android M system permissions |
+| [AndPermission](https://github.com/yanzhenjie/AndPermission) | 运行权限 | Android Runtime权限，支持在任何地方申请许可的权利。 |
+| [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher) | 运行权限 | 简单的基于注释的API来处理运行时权限 |
+| [ToggleButton](https://github.com/zcweng/ToggleButton) | 控件 | 切换开关。 ToggleButton |
+| [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) | 角标 | 支持三星，LG，索尼和 HTC 的应用图标角标 |
+| [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | 控件 | 加载条（停更很久） |
+| [EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView) | 控件 | 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件 |
+| [ItemTouchHelperDemo](https://github.com/YoKeyword/ItemTouchHelperDemo) | 布局 | 使用ItemTouchHelper实现今日头条 网易新闻 的频道排序、频道移动 |
+| [BottomBar](https://github.com/roughike/BottomBar) | 控件 | 模拟新材质设计底部导航模式的自定义视图组件。 |
+| [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | 面板控件 | 提供了一个简单的方式来添加一个可拖动的滑动面板（由Google音乐和Google Maps推广）到您的Android应用程序。 |
+| [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) | 登录布局 | 帅气的登录页面 |
+| [MaterialLogin](https://github.com/shem8/MaterialLogin) | 登录布局 | 登录页：材料设计 |
+| [AppIntro](https://github.com/apl-devs/AppIntro) | 引导页 | 一款酷酷的引导页 |
+| [SlidingTutorial-Android](https://github.com/Cleveroad/SlidingTutorial-Android) | 引导页 | 一款不错的引导页 |
+| [![MaterialDesignLibrary](https://img.shields.io/badge/MaterialDesignLibrary-8k+-brightgreen.svg?style=social)](https://github.com/navasmdc/MaterialDesignLibrary) | 材料设计 | 兼容到 Android 2.2 的材料设计库 |
+| [material](https://github.com/rey5137/material) | 材料设计 | Material design 库控件 |
+| [Android-Material-Examples](https://github.com/saulmm/Android-Material-Examples) | 材料设计 | 材料设计小实例 |
+| [![material-dialogs](https://img.shields.io/badge/material_dialogs-10k+-brightgreen.svg?style=social)](https://github.com/afollestad/material-dialogs) | 材料设计 | 一个美丽，流体，和可定制的对话框 |
+| [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | 轮播图 | 一款便捷的轮播图控件 |
+| [MaterialViewPager](https://github.com/florent37/MaterialViewPager) | ViewPager | 材质设计 ViewPager |
+| [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) | 指示器 | 分页指示器与 Android 支持库和 ActionBarSherlock 中的 ViewPager 兼容 |
+| [SpringIndicator](https://github.com/chenupt/SpringIndicator) | 指示器 | 一款viewpager指示器。 |
+| [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) | ViewPager标题栏 | 自定义ViewPager标题栏 |
+| [Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) | 刷新控件 | 一个下拉刷新控件 |
+| [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | 视图 | 可以在滚动视图上观察滚动事件 |
+| [XRecyclerView](https://github.com/jianghejie/XRecyclerView) | 刷新控件 | pullrefresh 刷新加载的动画列表 |
+| [![Material-Animations](https://img.shields.io/badge/Material_Animations-9k+-brightgreen.svg?style=social)](https://github.com/lgvalle/Material-Animations) | 动画 | 界面之间转场动画 |
+| [MaterialTransitions](https://github.com/toddway/MaterialTransitions) | 转场动画 | 转场动画（不再维护） |
+| [SpringView](https://github.com/liaoinstan/SpringView) | 布局 | 果冻布局：自定义视图可以上下拖动，支持ScrollView，ListView，RecyclerView，WebView和所有其他视图，易于使用 |
+| [GoodView](https://github.com/venshine/GoodView) | 点赞控件 | Android点赞+1效果，支持文本和图像 |
+| [SystemBarTint](https://github.com/jgilfelt/SystemBarTint) | 菜单栏 | 菜单栏颜色的设置 |
+| [SnailBar](https://github.com/android-cjj/SnailBar) | 控件 | 一款可爱的进度条 |
+| [CoordinatorLayoutDemos](https://github.com/sungerk/CoordinatorLayoutDemos) | 布局 | 简书上下滑 隐藏上下 |
+| [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) | 更新 | Android应用增量更新 |
+| [FlyRefresh](https://github.com/race604/FlyRefresh) | 刷新控件 | 可爱个性的刷新控件 |
+| [vlc](https://github.com/videolan/vlc) | 媒体播放 | VLC媒体播放器 |
+| [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 媒体播放 | FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒体内容的图书馆和工具的集合 |
+| [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | 布局 | 强大的滑动菜单和布局 |
+| [CircleImageView](https://github.com/hdodenhof/CircleImageView) | 图片 | 圆形 ImageView |
+| [FabulousFilter](https://github.com/Krupen/FabulousFilter) | 控件 | 将 FAB 以动画的形式变成底部对话框 |
+| [cardslider-android](https://github.com/Ramotion/cardslider-android) | 控件 | Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集 |
 
 ### 卷二：秘籍榜  
 
