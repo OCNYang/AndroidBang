@@ -122,19 +122,19 @@
 
 | 名称 | 类型 | 说明 |
 |:----:|:----:|-----|
-| [AndroidNote](https://github.com/GcsSloop/AndroidNote) | Android | Android 学习笔记 |
-| [repo](https://github.com/suzeyu1992/repo) | Android | 一个 Android 开发者记录自己的知识库 |
-| [Android-Tips](https://github.com/tangqi92/Android-Tips) | Android | 填坑手册：一个令人敬畏的 Android 的提示列表 |
-| [Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android) | Android | 收集的第三方框架、控件 |
-| [awesome-view](https://github.com/xinghongfei/awesome-view) | Android | 自定义View |
+| [AndroidNote](https://github.com/GcsSloop/AndroidNote) | Android 教程 | Android 学习笔记 |
+| [repo](https://github.com/suzeyu1992/repo) | Android 教程 | 一个 Android 开发者记录自己的知识库 |
+| [Android-Tips](https://github.com/tangqi92/Android-Tips) | Android 教程 | 填坑手册：一个令人敬畏的 Android 的提示列表 |
+| [Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android) | Android UI库 | 收集的第三方框架、控件 |
+| [awesome-view](https://github.com/xinghongfei/awesome-view) | Android 教程 | 自定义View |
 | [![java-design-patterns](https://img.shields.io/badge/java--design--patterns-殿堂级-lightgrey.svg)](https://github.com/iluwatar/java-design-patterns) | Java | Java设计模式。Design patterns implemented in Java |
-| [![android-best-practices](https://img.shields.io/badge/android--best--practices-殿堂级-lightgrey.svg)](https://github.com/futurice/android-best-practices) | Android | Android 开发准则（iOS & WP 版也有） |
-| [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | Android | android UI设计的库集。A curated list of awesome Android UI/UX libraries |
-| [![AndroidUtilCode](https://img.shields.io/badge/AndroidUtilCode-10k+-brightgreen.svg?style=social)](https://github.com/Blankj/AndroidUtilCode) | Android | 常见 Utils 类：Android 开发人员不得不收集的代码 |
-| [android-common](https://github.com/litesuits/android-common) | Android | Utils类：一系列通用类、辅助类、工具类的集合 |
-| [notes](https://github.com/Piasy/notes) [GitBook版](https://notes.piasy.com/) | Android | Android 技术笔记  |
-| [![android-open-project](https://img.shields.io/badge/android_open_project-21k+-brightgreen.svg?style=social)](https://github.com/Trinea/android-open-project) | Android | Android 开源项目分类汇总 |
-| [![android-training-course-in-chinese](https://img.shields.io/badge/android_training_course_in_chinese-8k+-brightgreen.svg?style=social)](https://github.com/kesenhoo/android-training-course-in-chinese) | Android | Android 官方培训课程中文版 |
+| [![android-best-practices](https://img.shields.io/badge/android--best--practices-殿堂级-lightgrey.svg)](https://github.com/futurice/android-best-practices) | Android 准则 | Android 开发准则（iOS & WP 版也有） |
+| [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | Android UI库 | android UI设计的库集。A curated list of awesome Android UI/UX libraries |
+| [![AndroidUtilCode](https://img.shields.io/badge/AndroidUtilCode-10k+-brightgreen.svg?style=social)](https://github.com/Blankj/AndroidUtilCode) | Android 辅助类 | 常见 Utils 类：Android 开发人员不得不收集的代码 |
+| [android-common](https://github.com/litesuits/android-common) | Android 辅助类 | Utils类：一系列通用类、辅助类、工具类的集合 |
+| [notes](https://github.com/Piasy/notes) [GitBook版](https://notes.piasy.com/) | Android 教程 | Android 技术笔记  |
+| [![android-open-project](https://img.shields.io/badge/android_open_project-21k+-brightgreen.svg?style=social)](https://github.com/Trinea/android-open-project) | Android 库 | Android 开源项目分类汇总 |
+| [![android-training-course-in-chinese](https://img.shields.io/badge/android_training_course_in_chinese-8k+-brightgreen.svg?style=social)](https://github.com/kesenhoo/android-training-course-in-chinese) | Android 教程 | Android 官方培训课程中文版 |
 | [![Android-CleanArchitecture](https://img.shields.io/badge/Android_CleanArchitecture-8k+-brightgreen.svg?style=social)](https://github.com/android10/Android-CleanArchitecture) | 架构 | Clean 架构：Android-CleanArchitecture |
 | [![kotlin](https://img.shields.io/badge/Kotlin-15k+-brightgreen.svg?style=social)](https://github.com/JetBrains/kotlin) | Kotlin | Kotlin 编程语言 kotlinlang.org |
 | [![free-programming-books](https://img.shields.io/badge/free--programming--books-殿堂级-lightgrey.svg)](https://github.com/EbookFoundation/free-programming-books) | 书籍 | 可免费得到的编程书籍集合，各种编程语言，有中文版 |
