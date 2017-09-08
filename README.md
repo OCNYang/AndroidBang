@@ -442,6 +442,69 @@ FFmpeg是用于处理诸如音频，视频，字幕和相关元数据的多媒�
 Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集。  
 [https://github.com/Ramotion/cardslider-android](https://github.com/Ramotion/cardslider-android)  
 
+##  
+
+**SwitchButton**  
+各种各样的开关按钮。  
+[https://github.com/kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)  
+
+##  
+
+**material-dialogs**&ensp;&ensp;&ensp;&ensp;[![material-dialogs](https://img.shields.io/badge/GitHub-11k+-brightgreen.svg?style=social)](https://github.com/afollestad/material-dialogs)  
+美丽的可定制各种的对话框。  
+[https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)  
+
+
+##  
+
+**android-styled-dialogs**  
+基于DialogFragment的、易于使用的、API的材质对话框。  
+[https://github.com/avast/android-styled-dialogs](https://github.com/avast/android-styled-dialogs)  
+
+
+##
+
+**MaterialSearchView**  
+基于材料设计指南的Android搜索视图。  
+[https://github.com/Mauker1/MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)  
+
+##
+
+**Material-Animations**  
+Android转换动画解释与示例。  
+[https://github.com/lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations)  
+
+
+##
+**BGABadgeView-Android**  
+Android 徽章控件  
+[https://github.com/bingoogolapple/BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android)  
+
+##
+
+**MagicIndicator**  
+viewpager 的指示器框架  
+[https://github.com/hackware1993/MagicIndicator](https://github.com/hackware1993/MagicIndicator)  
+
+##
+
+**BottomBar**  
+一款底部导航栏  
+[https://github.com/roughike/BottomBar](https://github.com/roughike/BottomBar)  
+
+##
+
+**BGAQRCode-Android**  
+QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式  
+[https://github.com/bingoogolapple/BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)  
+
+##
+
+**HTextView**  
+各种动效文字  
+[https://github.com/hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView)  
+
+
 
 
 ### 卷二：秘籍榜  
@@ -552,6 +615,34 @@ Kotlin 编程语言 kotlinlang.org
 一套完整的学习手册帮助自己准备 Google 的面试  
 [https://github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)  
 
+##  
+
+**android_guides**&ensp;&ensp;&ensp;&ensp;[![android_guides](https://img.shields.io/badge/GitHub-19k+-brightgreen.svg?style=social)](https://github.com/codepath/android_guides)  
+Android开发人员的大量开源指南  
+[https://github.com/codepath/android_guides](https://github.com/codepath/android_guides)  
+
+
+##
+
+**Android-Best-Practices**  
+Android最佳实践示例  
+[https://github.com/tianzhijiexian/Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices)  
+
+##
+
+**Android_Data**  
+一些Android的学习资料，希望能帮你学习Android开发。  
+[https://github.com/Freelander/Android_Data](https://github.com/Freelander/Android_Data)  
+
+##
+
+**AndroidSdkSourceAnalysis**  
+android sdk 源码解析  
+[https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)  
+
+
+
+
 
 
 ### 卷三：战役榜
@@ -566,6 +657,15 @@ Kotlin 编程语言 kotlinlang.org
 **WeiBo**  
 第三方新浪微博客户端  
 [https://github.com/wenmingvs/WeiBo](https://github.com/wenmingvs/WeiBo)  
+
+##
+
+**iosched**  
+The Google I/O 2017 Android App  
+[https://github.com/google/iosched](https://github.com/google/iosched)  
+
+
+
 
 
 ## 遗碑
