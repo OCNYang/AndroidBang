@@ -507,67 +507,67 @@ QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成�
 ##
 
 **GSYVideoPlayer**  
-视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。  
+视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。  
 [https://github.com/CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)  
 
 ##
 
 **ijkplayer**&ensp;&ensp;&ensp;&ensp;[![ijkplayer](https://img.shields.io/badge/GitHub-15k+-brightgreen.svg?style=social)](https://github.com/Bilibili/ijkplayer)  
-基于FFmpeg n3.3的 Android / iOS 视频播放器，支持 MediaCodec，VideoToolbox 支持。  
+基于FFmpeg n3.3的 Android / iOS 视频播放器，支持 MediaCodec，VideoToolbox 支持。  
 [https://github.com/Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)  
 
 ##
 
 **JKeyboardPanelSwitch**  
-Android键盘面板冲突 布局闪动处理方案  
+Android键盘面板冲突 布局闪动处理方案  
 [https://github.com/Jacksgong/JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch)  
 
 ##
 
 **RichPath**  
-丰富的 Android 路径画，有很多你想要的动画很多  
+丰富的 Android 路径画，有很多你想要的动画很多  
 [https://github.com/tarek360/RichPath](https://github.com/tarek360/RichPath)  
 
 ##
 
 **stepper-indicator**  
-viewpager 的步骤式指示器  
+viewpager 的步骤式指示器  
 [https://github.com/badoualy/stepper-indicator](https://github.com/badoualy/stepper-indicator)  
 
 ##
 
 **StepView**  
-步骤式指示器，物流进度指示器  
+步骤式指示器，物流进度指示器  
 [https://github.com/baoyachi/StepView](https://github.com/baoyachi/StepView)  
 
 ##
 
 **MaterialDrawer**  
-灵活，易于使用，Android 抽屉式布局。  
+灵活，易于使用，Android 抽屉式布局  
 [https://github.com/mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)  
 
 ##
 
 **RxJava-Android-Samples**  
-RxJava for Android 使用例子  
+RxJava for Android 使用例子  
 [https://github.com/kaushikgopal/RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)  
 
 ##
 
 **ChromeLikeTabSwitcher**  
-仿 Google chrome 手机浏览器的标签页展示效果  
+仿 Google chrome 手机浏览器的标签页展示效果  
 [https://github.com/michael-rapp/ChromeLikeTabSwitcher](https://github.com/michael-rapp/ChromeLikeTabSwitcher)  
 
 ##
 
 **SwipeBackLayout**  
-一个Android库，可以帮助您使用滑动手势构建应用程序，实现侧滑退出页面的效果。  
+一个Android库，可以帮助您使用滑动手势构建应用程序，实现侧滑退出页面的效果。  
 [https://github.com/ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)  
 
 ##
 
 **AVLoadingIndicatorView**  
-加载动画  
+加载动画  
 [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)  
 
 
@@ -701,7 +701,7 @@ Android最佳实践示例  
 ##
 
 **AndroidSdkSourceAnalysis**  
-android sdk 源码解析  
+android sdk 源码解析  
 [https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)  
 
 ##
@@ -719,13 +719,13 @@ android 开发中的一些小技巧小提示
 ##
 
 **github-cheat-sheet**&ensp;&ensp;&ensp;&ensp;[![android_guides](https://img.shields.io/badge/GitHub-23k+-brightgreen.svg?style=social)](https://github.com/tiimgreen/github-cheat-sheet)  
-涨姿势：你不知道的 Git 和 GitHub 的特殊技巧。  
+涨姿势：你不知道的 Git 和 GitHub 的特殊技巧。  
 [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)  
 
 ##
 
 **Awesome-MaterialDesign**  
-收集的关于 Material design 的资源  
+收集的关于 Material design 的资源  
 [https://github.com/lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)  
 
 
