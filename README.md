@@ -445,20 +445,20 @@ Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集
 ##  
 
 **SwitchButton**  
-各种各样的开关按钮。  
+各种各样的开关按钮。  
 [https://github.com/kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)  
 
 ##  
 
 **material-dialogs**&ensp;&ensp;&ensp;&ensp;[![material-dialogs](https://img.shields.io/badge/GitHub-11k+-brightgreen.svg?style=social)](https://github.com/afollestad/material-dialogs)  
-美丽的可定制各种的对话框。  
+美丽的可定制各种的对话框。  
 [https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)  
 
 
 ##  
 
-**android-styled-dialogs**  
-基于DialogFragment的、易于使用的、API的材质对话框。  
+**android-styled-dialogs**  
+基于DialogFragment的、易于使用的、API的材质对话框。  
 [https://github.com/avast/android-styled-dialogs](https://github.com/avast/android-styled-dialogs)  
 
 
@@ -631,7 +631,7 @@ Android最佳实践示例  
 ##
 
 **Android_Data**  
-一些Android的学习资料，希望能帮你学习Android开发。  
+一些Android的学习资料，希望能帮你学习Android开发。  
 [https://github.com/Freelander/Android_Data](https://github.com/Freelander/Android_Data)  
 
 ##
