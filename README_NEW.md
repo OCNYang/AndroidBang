@@ -118,6 +118,17 @@
 | [CircleImageView](https://github.com/hdodenhof/CircleImageView) | 图片 | 圆形 ImageView |
 | [FabulousFilter](https://github.com/Krupen/FabulousFilter) | 控件 | 将 FAB 以动画的形式变成底部对话框 |
 | [cardslider-android](https://github.com/Ramotion/cardslider-android) | 控件 | Cardslider 是一个控制器，允许您通过滑动切换卡片式的图片集 |
+| [SwitchButton](https://github.com/kyleduo/SwitchButton) | 控件 | 各种各样的开关按钮 |
+| [![material-dialogs](https://img.shields.io/badge/GitHub-11k+-brightgreen.svg?style=social)](https://github.com/afollestad/material-dialogs) | 控件 | 美丽的可定制各种的对话框 |
+| [android-styled-dialogs](https://github.com/avast/android-styled-dialogs) | 控件 | 基于DialogFragment的、易于使用的、API的材质对话框 |
+| [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) | 布局 | 基于材料设计指南的Android搜索视图 |
+| [Material-Animations](https://github.com/lgvalle/Material-Animations) | 动画 | Android转换动画解释与示例 |
+| [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) | 徽章控件 | Android 徽章控件 |
+| [MagicIndicator](https://github.com/hackware1993/MagicIndicator) | 指示器 | viewpager 的指示器框架 |
+| [BottomBar](https://github.com/roughike/BottomBar) | 布局 | 一款底部导航栏 |
+| [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | 二维码 | QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式 |
+| [HTextView](https://github.com/hanks-zyh/HTextView) | 控件 | 各种动效文字 |
+
 
 ### 卷二：秘籍榜  
 
@@ -140,6 +151,11 @@
 | [![kotlin](https://img.shields.io/badge/Kotlin-15k+-brightgreen.svg?style=social)](https://github.com/JetBrains/kotlin) | Kotlin | Kotlin 编程语言 kotlinlang.org |
 | [![free-programming-books](https://img.shields.io/badge/free--programming--books-殿堂级-lightgrey.svg)](https://github.com/EbookFoundation/free-programming-books) | 书籍 | 可免费得到的编程书籍集合，各种编程语言，有中文版 |
 | [![coding-interview-university](https://img.shields.io/badge/coding--interview--university-殿堂级-lightgrey.svg)](https://github.com/jwasham/coding-interview-university) | 学习路线 | 一套完整的学习手册帮助自己准备 Google 的面试 |
+| [![android_guides](https://img.shields.io/badge/GitHub-19k+-brightgreen.svg?style=social)](https://github.com/codepath/android_guides) | Android 教程 | Android开发人员的大量开源指南 |
+| [Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices) | android 教程 | Android最佳实践示例 |
+| [Android_Data](https://github.com/Freelander/Android_Data) | Android 教程 | 一些Android的学习资料，希望能帮你学习Android开发 |
+| [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) | 进阶源码 | android sdk 源码解析 |
+
 
 ### 卷三：战役榜
 
@@ -154,6 +170,11 @@
 第三方新浪微博客户端  
 [https://github.com/wenmingvs/WeiBo](https://github.com/wenmingvs/WeiBo)  
 
+##
+
+**iosched**  
+The Google I/O 2017 Android App  
+[https://github.com/google/iosched](https://github.com/google/iosched)  
 
 ## 遗碑
 
