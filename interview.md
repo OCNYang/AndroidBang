@@ -13,3 +13,14 @@
 * 书籍：《Android JetPack 应用指南》  
 * [官方 JetPack 文档](https://developer.android.google.cn/topic/libraries/architecture)  
 
+### 组件化
+
+* [Android 组件化最佳实践](https://juejin.cn/post/6844903649102004231)  
+
+> 个人认为，组件化现在被过度使用了，体量不大的项目、成员不多的开发组，其实没必要一定要组件化的。相对面试来说的，如果不是大厂、大项目，去考察你的组件化真的就是为了面试而面试了。  
+> 针对功能模块解耦，感觉仅仅模块化就足够了。  
+> 不过人家面试人家说了算，该学还是学学，也没多少东西。
+
+### 优化
+
+[Android 应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)
