@@ -33,3 +33,7 @@
 > [GPUImage](https://github.com/cats-oss/android-gpuimage)  
 > [AudioVideoRecordingSample](https://github.com/saki4510t/AudioVideoRecordingSample)  
 > [Grafika](https://github.com/google/grafika)
+
+* [Android 贴心的音视频学习指南来咯！](https://www.ershicimi.com/p/006c89b87988f65950eeb54f2308273e)  
+* [Android 音视频技术](https://www.cnblogs.com/renhui/category/1011048.html)  
+
