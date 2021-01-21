@@ -23,4 +23,13 @@
 
 ### 优化
 
-[Android 应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)
+* [Android 应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)
+
+
+### 音视频
+
+* [推荐几个堪称教科书级别的 Android 音视频入门项目](https://segmentfault.com/a/1190000022561224)  
+> 对应下面 3 个项目  
+> [GPUImage](https://github.com/cats-oss/android-gpuimage)  
+> [AudioVideoRecordingSample](https://github.com/saki4510t/AudioVideoRecordingSample)  
+> [Grafika](https://github.com/google/grafika)
