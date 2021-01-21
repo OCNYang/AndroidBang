@@ -35,5 +35,6 @@
 > [Grafika](https://github.com/google/grafika)
 
 * [Android 贴心的音视频学习指南来咯！](https://www.ershicimi.com/p/006c89b87988f65950eeb54f2308273e)  
+* [Android 音视频架构 - 学习路线规划](https://blog.csdn.net/coding_man_xie/article/details/104829455)  
 * [Android 音视频技术](https://www.cnblogs.com/renhui/category/1011048.html)  
 
