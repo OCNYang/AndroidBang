@@ -54,3 +54,4 @@
 
 * [单例模式 工厂模式](https://zhuanlan.zhihu.com/p/93770973)   
 * [Android 常用设计模式](https://blog.csdn.net/chaoshenzhaoxichao/article/details/79839359)  
+* [Android 系统中涉及的设计模式](https://blog.csdn.net/varistor/article/details/91446009?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&dist_request_id=1328593.24992.16148409745428659&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)  
