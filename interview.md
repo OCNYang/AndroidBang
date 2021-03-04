@@ -46,3 +46,4 @@
 ### 知识点概念
 
 * [2020 面试题](https://xiaozhuanlan.com/topic/7548023169)
+* [Android 各版本适配](https://www.jianshu.com/p/a3baa6babe00)  
