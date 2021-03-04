@@ -55,3 +55,21 @@
 * [单例模式 工厂模式](https://zhuanlan.zhihu.com/p/93770973)   
 * [Android 常用设计模式](https://blog.csdn.net/chaoshenzhaoxichao/article/details/79839359)  
 * [Android 系统中涉及的设计模式](https://blog.csdn.net/varistor/article/details/91446009?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control&dist_request_id=1328593.24992.16148409745428659&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.control)  
+
+
+### 项目问题
+
+#### 崩溃率  
+* 接口返回的数据格式不可控造成的问题
+* 内存溢出造成的问题，低端、内存较小的机型容易崩溃
+* 页面问题，RecyclerView 为了不解决复用问题，禁用了复用，导致线上列表数据很多时，页面崩溃（组员）
+* 机型兼容问题，vivo 某些低端机型 不兼容 svg ，当加载不规范的 svg 时会有问题。使用云真机去做测试。
+
+#### 难点
+* LiveData 数据倒灌问题，一个列表，点击 A 看详情，再点击 B 看详情，解决 LiveData 置空 | 使用 id 标识数据（返回的数据格式内的 id 和 请求 id 比对）。
+* kotlin 和 Java 兼容问题，最常见的就是 空 安全的问题。
+* vector 问题，动态设置颜色渲染，会使所有使用的地方变色。解决：复制一份 svg 图标。
+* textView 的 inputType 问题。
+* 过期跳转登录问题，清空栈。（clear task | new task）
+* application 缓存数据的问题，退出后台，当系统内存不足的时候会回收app，再恢复时全新app并启动退出时的Activity页面。
+* 目前未解决的问题：RecyclerView 内使用 fragment。
