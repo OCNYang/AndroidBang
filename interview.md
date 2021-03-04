@@ -48,3 +48,9 @@
 * [2020 面试题](https://xiaozhuanlan.com/topic/7548023169)
 * [Android 各版本适配](https://www.jianshu.com/p/a3baa6babe00)  
 * [Android 进程间通讯](https://www.cnblogs.com/sixrain/p/11149780.html)  
+
+
+### 设计模式  
+
+* [单例模式 工厂模式](https://zhuanlan.zhihu.com/p/93770973)   
+* [Android 常用设计模式](https://blog.csdn.net/chaoshenzhaoxichao/article/details/79839359)  
