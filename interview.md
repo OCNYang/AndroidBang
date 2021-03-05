@@ -25,6 +25,7 @@
 
 * [Android 应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)  
 * [Android WebView 优化汇总](https://www.jianshu.com/p/6179d51281da)  
+* [Android 网络优化，使用 HTTPDNS 优化 DNS](https://www.cnblogs.com/plokmju/p/okhttp_httpdns.html)  
 
 
 ### 音视频
@@ -81,3 +82,4 @@
 * [EventBus 原理](https://www.cnblogs.com/huansky/p/10926138.html)  
 * [ButterKnife 原理](https://www.jianshu.com/p/99e080606de3)  
 * [Glide 原理](https://blog.csdn.net/gzsuperwin/article/details/109075916)  
+* [okhttp 原理](https://www.jianshu.com/p/d7eced552553)  
