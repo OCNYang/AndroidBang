@@ -23,7 +23,8 @@
 
 ### 优化
 
-* [Android 应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)
+* [Android 应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)  
+* [Android WebView 优化汇总](https://www.jianshu.com/p/6179d51281da)  
 
 
 ### 音视频
