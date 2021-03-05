@@ -74,3 +74,7 @@
 * 过期跳转登录问题，清空栈。（clear task | new task）
 * application 缓存数据的问题，退出后台，当系统内存不足的时候会回收app，再恢复时全新app并启动退出时的Activity页面。
 * 目前未解决的问题：RecyclerView 内使用 fragment。
+
+
+### 框架
+* [EventBus 原理](https://www.cnblogs.com/huansky/p/10926138.html)  
