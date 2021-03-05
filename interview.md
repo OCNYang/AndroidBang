@@ -79,7 +79,8 @@
 
 
 ### 框架
-* [EventBus 原理](https://www.cnblogs.com/huansky/p/10926138.html)  
-* [ButterKnife 原理](https://www.jianshu.com/p/99e080606de3)  
-* [Glide 原理](https://blog.csdn.net/gzsuperwin/article/details/109075916)  
-* [okhttp 原理](https://www.jianshu.com/p/d7eced552553)  
+* [EventBus 原理](https://www.cnblogs.com/huansky/p/10926138.html) 关键字：反射、注册时保存类名，并反射保存注解监听方法、线程切换，主线程用Handle，其他用线程池  
+* [ButterKnife 原理](https://www.jianshu.com/p/99e080606de3) 关键字：apt、编译生成对应文件，bind()时对应  
+* [Glide 原理](https://blog.csdn.net/gzsuperwin/article/details/109075916) 关键字：空界面fragment监听生命周期、三级缓存  
+* [okhttp 原理](https://www.jianshu.com/p/d7eced552553) 关键字：责任链、线程池、缓存、gzip、不是采用httpurlConnention，而是Socket  
+* [ARouter 原理](https://www.cnblogs.com/ldq2016/p/10504652.html) 关键字：apt，注解内字符串 Map 对应 class 类名  
