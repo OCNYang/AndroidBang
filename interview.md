@@ -1,3 +1,18 @@
+### TODO
+要想提升，你会发现该学的东西一样也少不了在哪里等着你...
+
+#### Groovy & Gradle
+[Groovy 脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49047515)  
+[Groovy 教程](https://www.w3cschool.cn/groovy/)  
+[Gradle 教程](https://www.w3cschool.cn/gradle/)  
+[Gradle 教程](https://www.yiibai.com/gradle/)  
+[Gradle 用户指南官方文档中文版](https://wiki.jikexueyuan.com/project/GradleUserGuide-Wiki/tutorials/README.html)  
+
+
+#### Python
+
+
+
 
 ### Kotlin 相关
 
