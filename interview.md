@@ -21,6 +21,16 @@
 > 针对功能模块解耦，感觉仅仅模块化就足够了。  
 > 不过人家面试人家说了算，该学还是学学，也没多少东西。
 
+**组件化实践**  
+[方案：JIMU](https://github.com/mqzhangw/JIMU)  
+[Demo: DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)  
+[1. Android 彻底组件化方案实践](https://blog.csdn.net/yan8024/article/details/76408161)  
+[2. Android 彻底组件化 demo 发布](https://www.jianshu.com/p/59822a7b2fad/)  
+[3. Android 彻底组件化 — 代码和资源隔离](https://www.jianshu.com/p/c7459b59dcd5)  
+[4. Android 彻底组件化 —UI 跳转升级改造](https://blog.csdn.net/weixin_34266504/article/details/87955995)  
+[5. Android 彻底组件化 — 如何使用 Arouter](https://blog.csdn.net/h176nhx7/article/details/79203515)  
+
+
 ### 优化
 
 * [Android 应用开发性能优化完全分析](https://blog.csdn.net/yanbober/article/details/48394201)  
