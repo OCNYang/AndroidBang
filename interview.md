@@ -8,6 +8,8 @@
 [Gradle 教程](https://www.yiibai.com/gradle/)  
 [Gradle 用户指南官方文档中文版](https://wiki.jikexueyuan.com/project/GradleUserGuide-Wiki/tutorials/README.html)  
 
+[Gradle 爬坑指南 -- 导论](https://juejin.cn/post/6882178101191639053)  
+
 
 #### Python
 
