@@ -97,6 +97,7 @@
 * 机型兼容问题，vivo 某些低端机型 不兼容 svg ，当加载不规范的 svg 时会有问题。使用云真机去做测试。
 
 #### 难点
+* handler 的消息队列里的数据处理正常是很快的，但是如果存在耗时的处理，会导致不能及时处理队列中的消息，这个时候可以把消息队列中的数据都打印出来。在你想开始打印的地方增加 `Looper.getMainLooper().setMessageLogging(new LogPrinter(4, "xuwenping"));`，这样，log 里就会出现 `I/xuwenping: <<<<< Finished to Handler (android.view.ViewRootImpl$ViewRootHandler) {672b748} null` 的类似 log
 * LiveData 数据倒灌问题，一个列表，点击 A 看详情，再点击 B 看详情，解决 LiveData 置空 | 使用 id 标识数据（返回的数据格式内的 id 和 请求 id 比对）。
 * kotlin 和 Java 兼容问题，最常见的就是 空 安全的问题。
 * vector 问题，动态设置颜色渲染，会使所有使用的地方变色。解决：复制一份 svg 图标。
