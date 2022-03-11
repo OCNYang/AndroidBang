@@ -75,6 +75,8 @@
 ### 知识点概念
 
 * [2020 面试题](https://xiaozhuanlan.com/topic/7548023169)
+* [史上最全的 Android 面试题集锦](https://juejin.cn/post/6844903891625050119)
+
 * [Android 各版本适配](https://www.jianshu.com/p/a3baa6babe00)  
 * [Android 进程间通讯](https://www.cnblogs.com/sixrain/p/11149780.html)  
 * [事件分发机制](https://www.cnblogs.com/chengxuyinli/p/9979826.html)  
