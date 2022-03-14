@@ -82,6 +82,11 @@
 * [事件分发机制](https://www.cnblogs.com/chengxuyinli/p/9979826.html)  
 * [Socket 使用攻略](https://www.jianshu.com/p/089fb79e308b)  
 
+### 问题点
+
+* LocalBroadcast 跨进程通知（同一个应用，不同的进程）
+* 一个 Activity 多个 Handler 时，Message 消息是否会混乱？
+* LiveData 数据倒灌原因，解决方案
 
 ### 设计模式  
 
