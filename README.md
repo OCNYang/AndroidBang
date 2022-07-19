@@ -1,6 +1,7 @@
 # 记录知识点
 
-[《知识点教程记录》](https://github.com/OCNYang/AndroidBang/blob/master/interview.md)
+[《知识点教程记录》](https://github.com/OCNYang/AndroidBang/blob/master/interview.md)  
+[《开发一个 App 需要做哪些技术准备？》](https://github.com/OCNYang/AndroidBang/blob/master/BeforeDevApp.md)
 
 # Android Bang
 [![java](https://img.shields.io/badge/language-java-orange.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
