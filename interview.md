@@ -121,4 +121,7 @@
 * [okhttp 原理](https://www.jianshu.com/p/d7eced552553) 关键字：责任链、线程池、缓存、gzip、不是采用httpurlConnention，而是Socket  
 * [ARouter 原理](https://www.cnblogs.com/ldq2016/p/10504652.html) 关键字：apt，注解内字符串 Map 对应 class 类名  
 * [Retrofit 原理](https://www.cnblogs.com/ijkzen/p/14455642.html) 关键字：动态代理  
-* [RxJava 2.0 使用](https://www.jianshu.com/u/c50b715ccaeb) 关键字：函数响应式编程；代替品：EventBus、Handle、Kotlin 协程、Kotlin Flow  
+* [RxJava 2.0 使用](https://www.jianshu.com/u/c50b715ccaeb) 关键字：函数响应式编程；代替品：EventBus、Handle、Kotlin 协程、Kotlin Flow 
+
+### 面试历程
+* 同步屏障
